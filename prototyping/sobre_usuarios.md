@@ -22,5 +22,5 @@ tienen algo que opinar y, podrían sentirse inhibidas para opinar entre expertos
 
 - que al final nuestro "slogan" sigue válido, **“CAIXA MAGICA - La voz de todos”**, y que aunque sigamos pensando en el usuário de manera difusa (potencialmente "todos"), la diferencia entre ayer y hoy es que por fin logramos poner un cuerpo, aunque todavia sirva para mucha gente. (Jes).
 
-El próximo paso del lab es diseñar el *user journey*. ;)
+El próximo paso del lab es diseñar el *blue print*. ;)
 
