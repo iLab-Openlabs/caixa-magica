@@ -6,3 +6,5 @@ Los individuos comparten información de forma anónima paara garantizar que no 
 Así llegamos a la conclusión de que un posible grupo de usuarios podría ser colectivos feministas, o grupos de autoayuda como los alcoholicos anonimos.
 
 Cabe comentar que el laboratorio de impacto no debe servir como un nuevo laboratorio de prototipado, o sea, tenemos que partir del prototipo que ya tenemos y proponer aplicaciones para ello.
+
+https://github.com/iLab-Openlabs/caixa-magica/raw/recipe/prototyping/grafemas/2017-12-05%2016.17.10.jpg
