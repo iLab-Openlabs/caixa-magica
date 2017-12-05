@@ -1,6 +1,7 @@
 # Receta rápida
 
 ## Caixa Mágica
+### La voz de todos
 
 ## Resumen
 
@@ -8,11 +9,15 @@ La Caixa Mágica es un hardware de bajo coste configurado para facilitar deliber
 
 ## Motivaciones
 
-Nuestra forma de acción se basa en tres pilares: información muy sencillas, expresión anónima y una red que independe de internet. La idea principal es garantizar el anonimato que permita la expresión de distintos puntos de vista en entornos de diversidad de opiniones y temas sensibles.
+Nuestra forma de acción se basa en tres pilares: información muy sencilla, expresión anónima y una red que independe de internet. La idea principal es garantizar el anonimato que permita la expresión de distintos puntos de vista en entornos de diversidad de opiniones y temas sensibles.
 
 ## Objetivos
 
+Servir como herramienta de deliberación en contextos locales garantizando el anonimato y así permitiendo la expresión de distintos puntos de vista en entornos de diversidad de opiniones y temas sensibles.
+
 ## Recursos
+
+Tras dos laboratorios de prototipado, logramos construir una comunidad con más de 30 participantes que siguen el proyecto y cerca de 10 membros muy activos que siguen intentando desarrollar proyectos, usos y documentación con y sobre la Caixa Mágica.
 
 ## Procedimientos
 
@@ -24,14 +29,23 @@ Nuestra forma de acción se basa en tres pilares: información muy sencillas, ex
 
 
 ## Equipo
-### Promotores:
 
-### Colaboradores:
+Marco Konopacki
+Mariel Zasso
+Norma Ruiz
+Adriano Belisário
+Rosa Torguet
+Luis Astorquiza 
+Ricardo Poppi
+Pablo Bejarano
 
 ## Contacto
+
+magos@caixamagi.ca
 
 ## Licencia
 
 ## URL
+http://caixamagi.ca/
 
 ## Imagem
