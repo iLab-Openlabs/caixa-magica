@@ -13,7 +13,7 @@ Nuestra forma de acción se basa en tres pilares: información muy sencilla, exp
 
 ## Objetivos
 
-Servir como herramienta de deliberación en contextos locales garantizando el anonimato y así permitiendo la expresión de distintos puntos de vista en entornos de diversidad de opiniones y temas sensibles.
+Servir como herramienta para la deliberación en contextos íntimos garantizando el anonimato y así permitiendo la expresión de la diversidad de distintos puntos de vista con opiniones en temas sensibles.
 
 ## Recursos
 
@@ -35,14 +35,14 @@ El software desarrollado permite montar encuestas con 3 formatos de preguntas: a
 
 Tras dos laboratorios de prototipado, logramos construir una comunidad con más de 30 participantes que siguen el proyecto y cerca de 10 membros muy activos que siguen intentando desarrollar proyectos, usos y documentación con y sobre la Caixa Mágica. El equipo permanente es:
 
-- Marco Konopacki : marco@caixamagi.ca
-- Mariel Zasso
-- Norma Ruiz
-- Adriano Belisário
-- Rosa Torguet
-- Luis Astorquiza 
-- Ricardo Poppi
-- Pablo Bejarano
+- Marco Konopacki (Brasil) : marco@caixamagi.ca
+- Mariel Zasso (Brasil)
+- Norma Ruiz (México)
+- Adriano Belisário (Brasil)
+- Rosa Torguet (España)
+- Luis Astorquiza (Colômbia)
+- Ricardo Poppi (Brasil)
+- Pablo Bejarano (Colômbia)
 
 ## Contacto
 
