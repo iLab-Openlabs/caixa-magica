@@ -20,6 +20,7 @@ Servir como herramienta de deliberación en contextos locales garantizando el an
 Tras dos laboratorios de prototipado, logramos construir una comunidad con más de 30 participantes que siguen el proyecto y cerca de 10 membros muy activos que siguen intentando desarrollar proyectos, usos y documentación con y sobre la Caixa Mágica.
 
 ## Procedimientos
+- [Como armar una Caja en 30 minutos](INSTALL.md)
 
 ## Cronograma
 
@@ -30,14 +31,14 @@ Tras dos laboratorios de prototipado, logramos construir una comunidad con más 
 
 ## Equipo
 
-Marco Konopacki
-Mariel Zasso
-Norma Ruiz
-Adriano Belisário
-Rosa Torguet
-Luis Astorquiza 
-Ricardo Poppi
-Pablo Bejarano
+- Marco Konopacki : marco@caixamagi.ca
+- Mariel Zasso
+- Norma Ruiz
+- Adriano Belisário
+- Rosa Torguet
+- Luis Astorquiza 
+- Ricardo Poppi
+- Pablo Bejarano
 
 ## Contacto
 
