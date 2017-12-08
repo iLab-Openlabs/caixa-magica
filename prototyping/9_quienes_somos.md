@@ -1,5 +1,7 @@
 
-## Quienes somos? pactos y socios
+## Quienes somos? pactos y socio
+
+![grafema proceso](https://github.com/iLab-Openlabs/caixa-magica/blob/recipe/prototyping/grafemas/photo4997283973650556855.jpg)
 
 quienes somos los fundadores (de esa fase del proyecto) - Mariel Zasso, Marco Konopacki, Luiz Astorquiza, Adriano Belisário
 que roles tenemos?
