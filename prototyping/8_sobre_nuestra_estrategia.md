@@ -1,5 +1,7 @@
 ## Dia 4: Feedback de la presentación de la estrategia de escalonamiento
 
+# Sugerencias de los compañeros del grande grupo a partir de nuestras ideas sobre el escalonamiento del proyecto
+
 Ofrecemos un kit de tecnologías + procesos
 El trabajo es de difusión y capacitación 
 
